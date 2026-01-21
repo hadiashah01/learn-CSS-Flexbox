@@ -21,3 +21,34 @@ This repository is created to:
 - Improve understanding of design cloning using code
 
 - Learn how to break complex layouts into manageable sections
+
+
+## Challenges
+
+Each assignment was provided as a layout image.
+The task was to recreate the same layout using HTML and CSS code.
+
+- **Challenge**: Visual layout/mockup
+
+- **Solution**: Fully coded webpage (HTML + CSS)
+
+
+## Topics Covered
+
+The following concepts are practiced across all tasks:
+
+- HTML page structure (`div`, sections)
+
+- CSS layout planning
+
+- `display` (block, inline-block)
+
+- `margin` and `padding`
+
+- `border`
+
+- `box-sizing`
+
+- Alignment and spacing
+
+- Visual layout cloning using code
