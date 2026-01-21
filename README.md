@@ -40,7 +40,7 @@ learn-CSS-Flexbox
 ├── challenge-01/
 │   ├── index.html        HTML solution
 │   ├── style.css         CSS styling
-│   ├── preview.png       Challenge / reference layout
+│   ├── preview-01.jpg       Challenge / reference layout
 │   └── README.md        Challenge + solution details
 │
 └── README.md            Root documentation
