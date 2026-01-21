@@ -32,6 +32,20 @@ The task was to recreate the same layout using HTML and CSS code.
 
 - **Solution**: Fully coded webpage (HTML + CSS)
 
+## Intended Structure
+
+```bash
+learn-CSS-Flexbox
+│
+├── challenge-01/
+│   ├── index.html        HTML solution
+│   ├── style.css         CSS styling
+│   ├── preview.png       Challenge / reference layout
+│   └── README.md        Challenge + solution details
+│
+└── README.md            Root documentation
+```
+
 
 ## Topics Covered
 
@@ -52,3 +66,11 @@ The following concepts are practiced across all tasks:
 - Alignment and spacing
 
 - Visual layout cloning using code
+
+> ![NOTES]
+
+> - Focus is on layout and design, not functionality
+
+> - No JavaScript or backend is included
+
+> - Created strictly for learning and assignment purposes 
