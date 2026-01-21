@@ -67,10 +67,10 @@ The following concepts are practiced across all tasks:
 
 - Visual layout cloning using code
 
-> ![NOTES]
+**NOTES:**
 
-> - Focus is on layout and design, not functionality
+ - Focus is on layout and design, not functionality
 
-> - No JavaScript or backend is included
+ - No JavaScript or backend is included
 
-> - Created strictly for learning and assignment purposes 
+ - Created strictly for learning and assignment purposes 
