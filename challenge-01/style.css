@@ -20,20 +20,29 @@
     flex-direction: column;
     justify-content: start;
      --gap-around:4px;
+     --box-size: 40px;
+     --box-width:27px;
 }
 .container1{
     flex-grow: 0.5;
     gap:var(--gap-around);
 }
 .container2{
-        flex-grow: 10;
-        padding: 0;
+    flex-grow: 10;
+    padding: 0;
         
 }
 .container3{
-        flex-grow: 14;
-        gap:var(--gap-around);
+    flex-grow: 14;
+    gap:var(--gap-around);
     }
+
+.boxA{
+    justify-content: space-around;
+    height: var(--box-size);
+    width: var(--box-size);
+}
+
 .purple-border{
     border-color:purple;
 }
