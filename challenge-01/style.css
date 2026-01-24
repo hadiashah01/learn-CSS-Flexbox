@@ -48,6 +48,7 @@
     justify-content: space-around;
     height: var(--box-size);
     width: var(--box-size);
+    justify-items: center;
 }
 
 .boxB{
