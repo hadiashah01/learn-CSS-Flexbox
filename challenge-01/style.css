@@ -92,6 +92,11 @@ flex-grow: 0.5;
     flex-grow: 0.5;
     height: var(--box-width);
 }
+.item30{
+    height: var(--box-size);  
+    width:30%;
+  }  
+
 
 .purple-border{
     border-color:purple;
