@@ -85,6 +85,7 @@ flex-grow: 0.5;
      flex-direction: row;
      gap: var(--gap-around);
      height: var(--box-size);
+      align-items: center;
 }
 .purple-border{
     border-color:purple;
