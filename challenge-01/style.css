@@ -80,6 +80,12 @@ flex-grow: 0.5;
      padding:2px;
      
 }
+
+.boxC-1{
+     flex-direction: row;
+     gap: var(--gap-around);
+     height: var(--box-size);
+}
 .purple-border{
     border-color:purple;
 }
