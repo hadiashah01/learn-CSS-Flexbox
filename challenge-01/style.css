@@ -31,6 +31,7 @@
 .container1{
     flex-grow: 0.5;
     gap:var(--gap-around);
+    align-items: center;
 }
 
 .container2{
@@ -48,7 +49,7 @@
     justify-content: space-around;
     height: var(--box-size);
     width: var(--box-size);
-    justify-items: center;
+    margin-top: 3px;
 }
 
 .boxB{
