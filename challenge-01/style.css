@@ -97,6 +97,10 @@ flex-grow: 0.5;
     width:30%;
   }  
 
+.item60{
+    width:60%;
+  height: var(--box-size);  
+}
 
 .purple-border{
     border-color:purple;
