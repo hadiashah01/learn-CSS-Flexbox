@@ -19,9 +19,11 @@
     height:93vh;
     flex-direction: column;
     justify-content: start;
+     --gap-around:4px;
 }
 .container1{
     flex-grow: 0.5;
+    gap:var(--gap-around);
 }
 .container2{
         flex-grow: 10;
@@ -30,8 +32,8 @@
 }
 .container3{
         flex-grow: 14;
-        
-}
+        gap:var(--gap-around);
+    }
 .purple-border{
     border-color:purple;
 }
