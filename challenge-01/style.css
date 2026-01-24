@@ -107,6 +107,9 @@ flex-grow: 0.5;
   height: var(--box-size);  
 }
 
+.flex-end{
+   align-items: flex-end;
+}
 .purple-border{
     border-color:purple;
 }
