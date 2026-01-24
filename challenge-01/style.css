@@ -20,6 +20,18 @@
     flex-direction: column;
     justify-content: start;
 }
+.container1{
+    flex-grow: 0.5;
+}
+.container2{
+        flex-grow: 10;
+        padding: 0;
+        
+}
+.container3{
+        flex-grow: 14;
+        
+}
 .purple-border{
     border-color:purple;
 }
