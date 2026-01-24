@@ -87,6 +87,12 @@ flex-grow: 0.5;
      height: var(--box-size);
       align-items: center;
 }
+
+.cell{
+    flex-grow: 0.5;
+    height: var(--box-width);
+}
+
 .purple-border{
     border-color:purple;
 }
