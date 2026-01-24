@@ -92,6 +92,11 @@ flex-grow: 0.5;
     flex-grow: 0.5;
     height: var(--box-width);
 }
+
+.cell-2{
+    flex-grow: 8;
+}
+
 .item30{
     height: var(--box-size);  
     width:30%;
