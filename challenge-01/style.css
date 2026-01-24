@@ -48,6 +48,13 @@
     gap: var(--gap-around);
     height: var(--box-size);
 }
+.boxC{
+     flex-direction: column;
+     gap: var(--gap-around);
+     height:18%;
+     padding:2px;
+     
+}
 .purple-border{
     border-color:purple;
 }
