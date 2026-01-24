@@ -11,3 +11,15 @@
     display:flex;
     flex-direction: row;    
 }
+.purple-border{
+    border-color:purple;
+}
+.blue-border{
+    border-color:blue;
+}
+.green-border{
+    border-color:green;
+}
+.red-border{
+    border-color:red;
+}
