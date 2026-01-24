@@ -3,18 +3,22 @@
     padding:0;
     box-sizing: border-box;
 }
+
 .border{
     border: 3px solid black ;
     padding: 5px;
 }
+
 .flex-container{
     display:flex;
     flex-direction: row;    
 }
+
 .outer{
    height:97vh; 
     margin: 10px;
 }
+
 .container1,.container2,.container3{
     height:93vh;
     flex-direction: column;
@@ -23,31 +27,40 @@
      --box-size: 40px;
      --box-width:27px;
 }
+
 .container1{
     flex-grow: 0.5;
     gap:var(--gap-around);
 }
+
 .container2{
     flex-grow: 10;
     padding: 0;
         
 }
+
 .container3{
     flex-grow: 14;
     gap:var(--gap-around);
-    }
+}
 
 .boxA{
     justify-content: space-around;
     height: var(--box-size);
     width: var(--box-size);
 }
+
 .boxB{
     flex-grow: 1;
     margin:0;
     gap: var(--gap-around);
     height: var(--box-size);
 }
+
+.boxB-1{
+    align-items: center;
+}
+
 .boxC{
      flex-direction: column;
      gap: var(--gap-around);
