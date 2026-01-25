@@ -1,7 +1,7 @@
 ## Introduction
 
 This repository contains HTML and CSS code created to solve different layout design challenges.  
-Each task involves converting a given visual layout into a working webpage using **HTML for structure** and **CSS for styling**.
+Each task involves converting a given visual layout into a working webpage using **HTML for structure** and **CSS (Flexbox) for layout, alignment, and styling.**
 
 The repository includes both:
 
@@ -14,23 +14,21 @@ The repository includes both:
 
 This repository is created to:
 
-- Practice HTML structure building
+- Practice **HTML structure building** for Flexbox layouts
 
-- Apply CSS layout and styling techniques
+- Apply **CSS layout and styling techniques**
 
 - Improve understanding of design cloning using code
 
-- Learn how to break complex layouts into manageable sections
+- Learn how to **break complex layouts into manageable Flexbox sections**
 
 
 ## Challenges
 
-Each assignment was provided as a layout image.
-The task was to recreate the same layout using HTML and CSS code.
+- **Challenge-01: Complex Box Nesting Layout**  
+  A box-based layout challenge created using **CSS Flexbox** to practice nesting, alignment, and spacing.  
+ [View Challenge](./challenge-01/)
 
-- **Challenge**: Visual layout/mockup
-
-- **Solution**: Fully coded webpage (HTML + CSS)
 
 ## Intended Structure
 
@@ -51,11 +49,19 @@ learn-CSS-Flexbox
 
 The following concepts are practiced across all tasks:
 
-- HTML page structure (`div`, sections)
+- `display: flex`
 
-- CSS layout planning
+- `flex-direction`
 
-- `display` (block, inline-block)
+- `justify-content`
+
+- `align-items`
+
+- gap
+
+- main axis vs cross axis
+
+- box alignment
 
 - `margin` and `padding`
 
