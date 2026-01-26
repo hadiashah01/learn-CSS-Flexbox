@@ -29,6 +29,11 @@ The primary objectives of this specific task were:
 - **Alignment Precision:** Using `justify-content` and `align-items` for specific box placement.  
 
 
+## Source Code
+
+- [View HTML Structure](index.html)
+- [View CSS Styles](style.css)
+
 # Page Preview
 
 **1. Challenge Design (Reference)** 
