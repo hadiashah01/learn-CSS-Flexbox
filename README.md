@@ -39,10 +39,16 @@ This challenge focuses on building a complex UI layout using nested Flexbox cont
 ```bash
 learn-CSS-Flexbox
 │
+├── challenge-02/
+│   ├── index.html        HTML solution
+│   ├── style.css         CSS styling
+│   ├── images/       Challenge / reference layout
+│   └── README.md        Challenge + solution details
+│
 ├── challenge-01/
 │   ├── index.html        HTML solution
 │   ├── style.css         CSS styling
-│   ├── preview-01.jpg       Challenge / reference layout
+│   ├── images/        Challenge / reference layout
 │   └── README.md        Challenge + solution details
 │
 └── README.md            Root documentation
