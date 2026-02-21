@@ -23,6 +23,11 @@
  .flexbox--column {
             flex-direction: column;
         }
+        
+ .layout__header{
+            gap:0;
+        }
+
         .layout {
             margin: 2px 0 0 0;
             padding: 0;
