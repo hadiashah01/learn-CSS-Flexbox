@@ -22,3 +22,8 @@
  .flexbox--column {
             flex-direction: column;
         }
+ .layout__sidebar {
+            height: 75vh;
+           flex: 1;
+           width: 92%;
+        }
