@@ -42,3 +42,12 @@
        .layout__main-top :nth-child(4) {
          width: 13%;
         }
+        
+        .layout__main-middle :nth-child(1),
+         .layout__main-bottom :nth-child(1) { 
+            flex: 2; 
+        }
+        .layout__main-middle :nth-child(2),
+        .layout__main-bottom :nth-child(2) {
+            flex: 1;
+        }
