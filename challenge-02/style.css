@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+
     padding: 0;
 }
 .border {
@@ -51,6 +51,7 @@
         }     
        .layout__main-card {
          width: 13%;
+         flex-grow: 1;
         }
         .layout__main-top :nth-child(1) {
             width: 45%;
