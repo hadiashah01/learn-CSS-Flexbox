@@ -14,6 +14,16 @@ challenge-02/
 └── README.md     
 ```
 
+## Preview
+
+### Final Output
+
+![Final Output](./images/output-img1.png)
+
+### Reference Design
+
+![Reference Design](./images/reference-design.jpeg)
+
 ## Features
 
 - Nested Flexbox layout
@@ -40,3 +50,8 @@ challenge-02/
 
 1. Clone the repository
 2. Open index.html in your browser
+
+## Main Files
+
+- [index.html](./index.html)
+- [style.css](./style.css)
