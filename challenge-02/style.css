@@ -15,9 +15,10 @@
 .border--green{
             border: 4px solid green;
 }
-.flexbox {
+.flex-box {
             display :flex;
-            flex-direction: row; 
+            flex-direction: row;
+            gap: 2px; 
         }
  .flexbox--column {
             flex-direction: column;
@@ -31,4 +32,4 @@
              height: 74.4vh;
             flex: 3;
             padding-bottom: 20px;
-        }
+        }     
