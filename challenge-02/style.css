@@ -45,9 +45,9 @@
             flex-grow: 2;
         }
         .layout__main {
-             height: 74.4vh;
+             height: 73vh;
             flex: 3;
-            padding-bottom: 20px;
+            padding-bottom: 2rem;
         }     
        .layout__main-card {
          width: 13%;
