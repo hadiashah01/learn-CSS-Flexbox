@@ -23,6 +23,10 @@
  .flexbox--column {
             flex-direction: column;
         }
+        .layout {
+            margin: 2px 0 0 0;
+            padding: 0;
+        }
  .layout__sidebar {
             height: 75vh;
            flex: 1;
