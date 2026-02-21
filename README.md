@@ -59,29 +59,27 @@ learn-CSS-Flexbox
 
 The following concepts are practiced across all tasks:
 
-- `display: flex`
+- `display: flex`,`flex-direction`,`justify-content`,`align-items`
 
-- `flex-direction`
-
-- `justify-content`
-
-- `align-items`
-
-- gap
-
+- `box-sizing`,`margin`,`border` and `padding`
+  
 - main axis vs cross axis
-
-- box alignment
-
-- `margin` and `padding`
-
-- `border`
-
-- `box-sizing`
-
-- Alignment and spacing
+  
+- box alignment, gap, alignment and spacing
 
 - Visual layout cloning using code
+  
+- Nested Flexbox containers – multiple flex containers inside each other (`layout__main-top, layout__main-middle`, etc.)
+
+- Flex ratios / flex-grow – like `.layout__main-middle :nth-child(1) { flex: 2; }`
+
+- Axis control (main & cross axis) – e.g., `align-self: flex-end;`
+
+- BEM methodology – classes like `layout__main-middle, layout__sidebar-item`
+
+- Responsive layout basics – viewport height used (`75vh`)
+
+- Column & row flex directions – using `flexbox--column` and default row
 
 **NOTES:**
 
