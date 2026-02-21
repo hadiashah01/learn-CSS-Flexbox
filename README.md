@@ -29,6 +29,10 @@ This repository is created to:
   A box-based layout challenge created using **CSS Flexbox** to practice nesting, alignment, and spacing.  
  [View Challenge](./challenge-01/)
 
+- **Challenge-02: Nested Flexbox Layout with BEM**
+This challenge focuses on building a complex UI layout using nested Flexbox containers. The goal was to create a responsive, maintainable structure using BEM for semantic class naming, nested flex layouts, flex ratios, axis control, and alignment techniques.  
+[View Challenge](./challenge-02/)
+
 
 ## Intended Structure
 
