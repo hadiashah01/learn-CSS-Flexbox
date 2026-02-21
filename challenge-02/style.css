@@ -39,23 +39,24 @@
         }
 
         .layout__sidebar :nth-child(1){
-            aspect-ratio: 1/1;
+            aspect-ratio: 1/1;   
+        }
+        .layout__sidebar-item {
+            flex-grow: 2;
         }
         .layout__main {
              height: 74.4vh;
             flex: 3;
             padding-bottom: 20px;
         }     
+       .layout__main-card {
+         width: 13%;
+        }
         .layout__main-top :nth-child(1) {
             width: 45%;
             height: 20px;
-        }
-       .layout__main-top :nth-child(2),
-       .layout__main-top :nth-child(3),
-       .layout__main-top :nth-child(4) {
-         width: 13%;
-        }
-        
+         }
+
         .layout__main-middle :nth-child(1),
          .layout__main-bottom :nth-child(1) { 
             flex: 2; 
